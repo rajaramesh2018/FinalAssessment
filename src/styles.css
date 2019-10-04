@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+#bdyID {
+        background: url('./assets/ProjectManager.jpeg') no-repeat left center fixed;
+        -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+        border-color: black;
+        border: thick;
+        border-radius: 4%;
+        
+      }
+      .bdyClass{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight:50;
+        font-size: small;
+      }
+     
+  

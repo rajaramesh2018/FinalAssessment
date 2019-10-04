@@ -1,0 +1,12 @@
+#exTab1 .tab-content {
+    color : white;
+    background-color:gray;
+    padding : 5px 15px;
+  }
+  .fntCls{
+    font-size:medium;
+  }
+  .btn:disabled {
+    color: gray;
+ }
+  
